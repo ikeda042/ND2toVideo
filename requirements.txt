@@ -1,0 +1,4 @@
+nd2reader
+numpy
+pillow
+opencv-python
