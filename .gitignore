@@ -3,3 +3,5 @@
 !requirements.txt
 !README.md
 !.gitignore
+!sample_tiff/
+!sample_tiff/*
